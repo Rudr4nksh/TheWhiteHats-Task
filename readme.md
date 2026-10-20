@@ -1,9 +1,6 @@
-# 🛡️ WhiteHats Security Club Application
+# 🛡️ TheWhiteHats Club Application
 
-<div align="center">
-  <img src="https://shields.io" alt="Applicant Status">
-  <img src="https://shields.io" alt="Focus">
-</div>
+
 
 ---
 
