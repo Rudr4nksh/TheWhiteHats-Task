@@ -1,7 +1,5 @@
 # 🛡️ TheWhiteHats Club Application
 
-
-
 ---
 
 ## 👤 1. About Me
@@ -30,7 +28,4 @@ Independent security researchers exposed critical flaws in the Central Board of 
 
 This incident highlights a major lesson for enterprise deployments: **responsible disclosure protocols**, rigorous **penetration testing**, and strict **vendor risk assessments** are non-negotiable before rolling out large-scale civic infrastructure.
 
----
-<div align="center">
-  <sub>Built for the WhiteHats Application Process • 2026</sub>
-</div>
+
